@@ -1,9 +1,4 @@
 # mini-guia-estudos-notebooklm
-Excelente ideia de projeto. Conectar a curadoria de livros de saúde mental ao framework técnico exigido na imagem `image_d4588a.png` vai garantir que o seu repositório demonstre exatamente a maturidade técnica e o raciocínio estruturado que o mercado valoriza.
-
-Abaixo, estruturei as respostas para o seu README com base nas diretrizes da imagem e no tema do seu caderno, o **"Refúgio da Mente"**:
-
----
 
 ## 1. Contexto e Objetivos
 
