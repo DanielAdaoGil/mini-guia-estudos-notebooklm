@@ -12,9 +12,10 @@
 
 ---
 
-## 2. Curadoria de Fontes
+2. Curadoria de Fontes e Caderno Digital
+Para cumprir a exigência de 3 a 5 fontes de alto nível técnico, selecionamos os pilares mundiais do setor e realizamos o upload direto na ferramenta de IA.
 
-Para cumprir a exigência de 3 a 5 fontes de alto nível técnico e abertas/disponíveis para upload, selecionamos os pilares mundiais do setor:
+Link de Acesso ao Caderno: Acesse o NotebookLM - Refúgio da Mente
 
 1. **"Inteligência Emocional" – Daniel Goleman**
 * *Foco técnico:* Fornece a base de neurociência e os 5 pilares do desenvolvimento emocional para a IA contextualizar os impulsos do usuário.
